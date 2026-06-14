@@ -15,7 +15,7 @@ An interactive HR analytics dashboard built in Power BI using the IBM HR Analyti
 | File | Description |
 |------|-------------|
 | `HR_Analaysis.pbix` | Power BI Desktop file with all four report pages |
-| `1781461335168_capture_hr_dashboard.gif` | Animated demo of the dashboard in action |
+| `capture_hr_dashboard.gif` | Animated demo of the dashboard in action |
 
 ---
 
